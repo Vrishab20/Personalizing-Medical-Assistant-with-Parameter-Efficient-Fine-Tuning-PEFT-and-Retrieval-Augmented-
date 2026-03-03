@@ -101,7 +101,13 @@ npm start
 
 ![DoctorGPT Screenshot](https://github.com/user-attachments/assets/c2be0766-5f79-47ef-a5ea-55f6a384acda)
 
----
+--- 
+
+## Contributors
+
+- [Vrishab Davey](https://github.com/Vrishab20)
+- [Diana Rogachova](https://github.com/dianasulyma)
+- [Akshidha Unni](https://github.com/Akshidha-Unni)
 
 ##  License
 
